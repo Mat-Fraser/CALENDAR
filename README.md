@@ -1,5 +1,5 @@
+# 
 # CALENDAR
-# Project Title
 
 Simple overview of use/purpose.
 
@@ -7,15 +7,6 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## UI
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+![Capture](https://user-images.githubusercontent.com/86045021/177007517-6aa23ff2-a291-41b1-988b-cd1247f819cb.JPG)

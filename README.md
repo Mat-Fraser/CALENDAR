@@ -1,7 +1,7 @@
 # 
 # CALENDAR
 
-Simple overview of use/purpose.
+CALENDAR web app just a basic calendar to display date months years and mark them for some work or other purposes.
 
 ## Description
 

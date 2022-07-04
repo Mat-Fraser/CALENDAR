@@ -1,11 +1,8 @@
 # 
 # CALENDAR
-
+## Description
 CALENDAR web app just a basic calendar to display date months years and mark them for some work or other purposes.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
 
 ## UI
 
